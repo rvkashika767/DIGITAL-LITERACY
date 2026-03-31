@@ -1,0 +1,16 @@
+Part b 
+
+Stay safe online - 8 things to do
+
+[  ] Don't share UPI password 
+[  ] Biometric for important apps
+[  ] Verify the money received because it could be scams  
+[  ] 2-step authentication for apps
+[  ] Don't share OTP
+[  ] Avoid using public WIFI, data can be stolen
+[  ] Verify AI/deepfake because of scams to extort money 
+[  ] Digital arrest avoidance 
+[  ] Set daily limit for transaction
+
+Reporting channel: National Cyber Crime Portal (cybercrime.gov.in)
+Helpline 1930.
