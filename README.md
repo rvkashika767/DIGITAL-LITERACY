@@ -11,4 +11,8 @@ task-3-platforms - Platform screenshots, activity proof
 task-4-email-etiquette - Sample email drafts, etiquette checklist
 task-5-cybercrime -  Case study writeup, prevention checklist
 
+ Useful Links
+
+Infographic Tool: Canva Coding Practice: HackerRank Collaboration Tool: Google Forms
+
 All work in this repository are original and are a part of my coursework for CSE0001 - DIGITAL LITERACY
